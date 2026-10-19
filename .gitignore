@@ -1,0 +1,8 @@
+# virtual environment
+.venv/
+
+# dataset
+data/raw/
+
+# python bytecode
+__pycache__/
