@@ -1,0 +1,12 @@
+{
+  "n_estimators": 450,
+  "max_depth": 4,
+  "learning_rate": 0.012272813157501462,
+  "subsample": 0.9221692299567915,
+  "colsample_bytree": 0.6025987725916826,
+  "min_child_weight": 5,
+  "reg_lambda": 0.8230060049229584,
+  "w_dc": 0.213523442218144,
+  "dc_half_life": 365,
+  "min_train_season": "1112"
+}
